@@ -5,7 +5,7 @@ below is a list of my interests:
  2- Maths
     -symmetry
     -analysis
-***python
+```python
 x=5
 print(x)
   
